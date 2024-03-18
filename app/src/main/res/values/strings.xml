@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">Evolucao Dos Computadores</string>
     <string name="desc_univac1">o primeiro computador comercial da história. Do tamanho de um armário, pesava 13 toneladas e custava entre 1,25 e 1,5 milhão de dólares.</string>
+    <string name="ano1">1951</string>
+    <string name="ano2">1965</string>
+    <string name="ano3">1975</string>
+    <string name="ano4">1985</string>
+    <string name="ano5">1995</string>
+    <string name="ano6">2015</string>
+    <string name="ano7">Presente</string>
+    <string name="nome1">UNIVAC 1</string>
+    <string name="nome2">Programma 101</string>
+    <string name="desc_programma_101">O primeiro computador pessoal da história, ele era basicamente uma calculadora e foi majoritariamente vendido para osEstados Unidos.</string>
+    <string name="nome3">IBM 5100</string>
+    <string name="desc_ibm_5100">Pesando 25Kg, ele foi o primeiro computador "portátil" da história, custava aproximadante U$ 49.000,00 convertendo para os dias de hoje</string>
+    <string name="nome4">IBM PC XT</string>
+    <string name="desc_ibm_pc_xt">O computador PC-XT foi o sucessor do IBM PC original, lançado em 8 de março de 1983, sendo um dos primeiros dispositivos computacionais a ter uma unidade de disco rígido interno como padrão. </string>
+    <string name="nome5">Computadores pessoais</string>
+    <string name="desc_computadores_pessoais">Era do Windows 95 que popularizou a utilização de computadores das mais variadas formas, também com o Macintosh surgindo na cena</string>
+    <string name="nome6">Computadores potentes</string>
+    <string name="desc_potentes">Era em que os computadores já conseguiam processar muito mais infomações, já entrando em declínio no seu uso pessoal comparado aos celulares</string>
+    <string name="nome7">Computadores atuais</string>
+    <string name="desc_atuais">Sendo utilizados majoritariamente para trabalho, podem pesar muito pouco e ocupar muito pouco espaço, sendo altamente efetivos</string>
+
 </resources>
