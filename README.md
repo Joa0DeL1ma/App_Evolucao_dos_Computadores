@@ -11,3 +11,4 @@ Resultado Final:
 
 
 ![Histórias dos pcs](https://github.com/Joa0DeL1ma/App_Evolucao_dos_Computadores/assets/161715327/bee34ca8-2333-425e-b813-09728bc763c8)
+.
